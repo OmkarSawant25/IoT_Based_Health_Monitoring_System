@@ -1,0 +1,19 @@
+-> MLX90614
+	VIN	-	3v3
+	GND	-	GND
+	SCL	-	D1
+	SDA	-	D2
+
+-> DHT
+	VIN	-	3v3
+	DATA	-	D4
+	GND	-	GND
+
+-> MAX30100
+	VIN	-	3v3
+	SCL	-	D1
+	SDA	-	D2
+	-	-	-
+	-	-	-
+	-	-	-
+	GND	-	GND
